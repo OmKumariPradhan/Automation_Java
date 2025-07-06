@@ -1,4 +1,4 @@
-package SeleniumDemo.SeleniumDemo;
+package TutorialQAFox;
 
 import java.time.Duration;
 import java.util.Date;
